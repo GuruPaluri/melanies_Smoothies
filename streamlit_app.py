@@ -3,7 +3,7 @@ from snowflake.snowpark.context import get_active_session
 from snowflake.snowpark.functions import col
 import pandas as pd
 
-st.title("Zena's Amazing Athleisure Catalog")
+st.title("cup_wth_straw: Customize your Snoothie! :cup_with_straw:")
 
 session = get_active_session()
 
